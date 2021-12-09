@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @splatticus-maximus
+- 👋 Hi, Matt Spencer
 - 👀 I’m interested in learning to code and program ASAP so I can become a programmer and get my first job in the industry
 - 🌱 I’m currently learning HTML, CSS, Javascrip, Python and Github
 - 💞️ I’m looking to collaborate on pair programming with somebody that can assist me with learning new programming info
